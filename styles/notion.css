@@ -7,13 +7,13 @@
  * places to add some flare.
  */
 .container {
-  background-color: #f0f0f5 !important;
+  background-color: ##423c46 !important;
 }
 
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
-  background-color: #f0f0f5;
+  background-color: ##423c46;
 }
 
 .notion-frame {
@@ -30,7 +30,7 @@
 }
 
 .notion-text {
-  padding: 0.5em 2px;
+  padding: 0.6em 2px;
 }
 
 .notion-asset-caption {
