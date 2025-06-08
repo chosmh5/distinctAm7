@@ -68,10 +68,6 @@
   gap: 0.5rem;
 }
 
-.notion-code {
-  animation: fadeInUp 0.7s ease-out both;
-}
-
 .notion-gallery-grid {
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   grid-gap: 6vmin;
@@ -236,6 +232,7 @@
 
 .notion-code {
   background: rgba(249, 250, 251, 1);
+  animation: fadeInUp 0.7s ease-out both;
   border: 1px solid rgba(229, 231, 235, 1);
   border-radius: 0.335rem;
 }
