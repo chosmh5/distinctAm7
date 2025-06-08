@@ -21,16 +21,6 @@
   }
 }
 
-.notion-collection-card {
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.notion-collection-card:hover {
-  transform: translateY(-2px) scale(1.02);
-  box-shadow: 0 8px 24px rgba(10, 10, 10, 0.1);
-}
-
-
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
