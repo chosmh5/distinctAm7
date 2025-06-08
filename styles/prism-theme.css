@@ -112,7 +112,7 @@ pre {
 
 pre[class*='language-'] > code {
   border-left: 0 none !important;
-  box-shadow: none !important;
+  box-shadow: 2px 2px 1px rgba(202, 147, 176, 0.1) !important;
   background: none !important;
 }
 
