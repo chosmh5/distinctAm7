@@ -12,11 +12,16 @@
 }
 
 .notion-code {
+  background-color: rgba(17, 24, 39, 1);
+  border-color: rgba(55, 65, 81, 1);
   border-radius: 0.375rem;
   padding: 1.5em !important;
+  animation: fadeInUp 1.5s ease-out both;
 }
 
 .dark-mode .notion-code {
+    background-color: rgba(249, 250, 251, 1);
+    border-color: rgba(229, 231, 235, 1);
 }
 .notion code {
   font-style: Nanum Gothic Coding;
