@@ -12,6 +12,7 @@
   border-color: rgba(229, 231, 235, 1);
 }
 .notion code {
+  font-style: Nanum Gothic Coding;
   color: rgba(229, 231, 235, 1);
   border: 0 none !important;
   box-shadow: none !important;
