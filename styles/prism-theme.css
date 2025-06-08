@@ -32,7 +32,6 @@
   padding: 0 !important;
 }
 .dark-mode .notion code {
-  color: rgba(41, 52, 65, 1);
 }
 
 .dark-mode .notion .notion-inline-code {
@@ -40,7 +39,7 @@
 }
 
 .notion .notion-inline-code {
-  color: #ff4081;
+  color: #d640a9;
   background: rgb(71, 76, 80) !important;
   padding: 0.2em 0.4em !important;
 }
