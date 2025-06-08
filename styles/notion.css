@@ -10,17 +10,6 @@
   background-color: ##423c46 !important;
 }
 
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(8px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
@@ -232,7 +221,6 @@
 
 .notion-code {
   background: rgba(249, 250, 251, 1);
-  animation: fadeInUp 0.7s ease-out both;
   border: 1px solid rgba(229, 231, 235, 1);
   border-radius: 0.335rem;
 }
