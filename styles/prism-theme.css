@@ -11,12 +11,15 @@
   }
 }
 
+.animate-fadeInUp {
+  animation: fadeInUp 1s ease-out both;
+}
+
 .notion-code {
   background-color: rgba(17, 24, 39, 1);
   border-color: rgba(202, 147, 176, 1);
   border-radius: 0.375rem;
   padding: 1.5em !important;
-  animation: fadeInUp 1.5s ease-out both;
 }
 
 .dark-mode .notion-code {
@@ -25,7 +28,6 @@
 }
 .notion code {
   font-style: Nanum Gothic Coding;
-  animation: fadeInUp 0.7s ease-out both;
   border-color: rgba(202, 147, 176, 1);
   box-shadow: none !important;
   background: none !important;
